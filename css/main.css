@@ -1,0 +1,43 @@
+/* Fonts */
+
+@font-face {
+    font-family: 'GirlsSecrets';
+    src: url('../fonts/girls-have-many-secrets.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.img-circle {
+    border-radius: 50%;
+    /*margin-top: 2%;
+    margin-right: 2.5%;
+    margin-left: 10%;
+    margin-bottom: 2%;*/
+    width: 100px;
+    height: 120px;
+    float: left;
+}
+
+hr {
+	border: 1.5px solid #c2c2a3;
+}
+
+.main-img {
+	width: 100%;
+}
+
+.align-right {
+	text-align: right;
+}
+
+.align-left {
+	text-align: left;
+}
+
+.margin-img {
+	margin: 15px 0;
+}
+
+.work-img {
+	height: 240px; 
+}
